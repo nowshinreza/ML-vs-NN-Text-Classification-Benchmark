@@ -33,4 +33,4 @@ The following figure illustrates the comparative accuracy of all models across d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/text-classification.git
+   https://github.com/nowshinreza/ML-vs-NN-Text-Classification-Benchmark.git
